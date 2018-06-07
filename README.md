@@ -11,7 +11,7 @@ Things you need to install the software and how to install them.
 
 ```
 pip install git+https://git@github.com/ping/instagram_private_api.git@1.5.7
-
+pip install git+https://git@github.com/ping/instagram_private_api_extensions.git@0.3.8
 ```
 
 ```
